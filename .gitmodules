@@ -1,0 +1,3 @@
+[submodule "practice-2/node-shopping-list-integration-tests"]
+	path = practice-2/node-shopping-list-integration-tests
+	url = https://github.com/Thinkful-Ed/node-shopping-list-integration-tests.git
